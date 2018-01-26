@@ -1,12 +1,24 @@
 # XMLDOM [![Build Status](https://secure.travis-ci.org/bigeasy/xmldom.png?branch=master)](http://travis-ci.org/bigeasy/xmldom) [![Coverage Status](https://coveralls.io/repos/bigeasy/xmldom/badge.png?branch=master)](https://coveralls.io/r/bigeasy/xmldom) [![NPM version](https://badge.fury.io/js/xmldom.png)](http://badge.fury.io/js/xmldom)
 
+**This is a fork of [jindw](https://github.com/jindw)'s
+[xmldom](https://github.com/jindw/xmldom) library together with
+[Rui Azevedo](https://github.com/neu-rah) code for compareDocumentPosition. It
+allows the use of
+[wicked-good-xpath](https://github.com/google/wicked-good-xpath) together with
+xmldom, using a little hack. For an example see
+[speech-rule-engine](https://github.com/zorkow/speech-rule-engine/blob/master/src/common/system_external.js).**
+
+_Just to be clear: This is not my code! You are welcome to use the package, but
+I can not fix any bugs!_
+
 A JavaScript implementation of W3C DOM for Node.js, Rhino and the browser. Fully
 compatible with `W3C DOM level2`; and some compatible with `level3`. Supports
 `DOMParser` and `XMLSerializer` interface such as in browser.
 
+
 Install:
 -------
->npm install xmldom
+>npm install xmldom-sre
 
 Example:
 ====
