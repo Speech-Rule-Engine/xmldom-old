@@ -1,6 +1,6 @@
 {
   "name": "xmldom-sre",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "description": "A W3C Standard XML DOM(Level2 CORE) implementation and parser(DOMParser/XMLSerializer).",
   "keywords": [
     "w3c",
