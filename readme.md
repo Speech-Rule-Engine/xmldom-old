@@ -1,4 +1,6 @@
-# XMLDOM [![Build Status](https://secure.travis-ci.org/bigeasy/xmldom.png?branch=master)](http://travis-ci.org/bigeasy/xmldom) [![Coverage Status](https://coveralls.io/repos/bigeasy/xmldom/badge.png?branch=master)](https://coveralls.io/r/bigeasy/xmldom) [![NPM version](https://badge.fury.io/js/xmldom.png)](http://badge.fury.io/js/xmldom)
+**This repository is no longer in use. All changes have been merged into [https://github.com/@xmldom/xmldom].**
+
+# XMLDOM [![Coverage Status](https://coveralls.io/repos/bigeasy/xmldom/badge.png?branch=master)](https://coveralls.io/r/bigeasy/xmldom) [![NPM version](https://badge.fury.io/js/xmldom.png)](http://badge.fury.io/js/xmldom)
 
 **This is a fork of [jindw](https://github.com/jindw)'s
 [xmldom](https://github.com/jindw/xmldom) library together with
